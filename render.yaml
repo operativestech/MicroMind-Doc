@@ -1,9 +1,0 @@
-services:
-  - type: web
-    name: micromind-doc-server
-    env: python
-    plan: free
-    buildCommand: |
-      pip install -r requirements.txt
-      mkdocs build
-    startCommand: python3 -m http.server --directory site 8080
