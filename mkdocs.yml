@@ -1,0 +1,6 @@
+site_name: MicroMind Docs
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Overview: overview.md
