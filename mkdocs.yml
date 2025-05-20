@@ -1,6 +1,6 @@
 site_name: MicroMind Docs
 theme:
-  name: material
+  name: readthedocs
 nav:
   - Home: index.md
   - Overview: overview.md
