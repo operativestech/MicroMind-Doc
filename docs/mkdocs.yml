@@ -1,6 +1,0 @@
-site_name: MicroMind Docs
-theme:
-  name: readthedocs
-nav:
-  - Home: index.md
-  - Overview: overview.md
