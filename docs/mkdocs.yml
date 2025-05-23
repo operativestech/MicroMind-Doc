@@ -1,6 +1,6 @@
 site_name: MicroMind Docs
 theme:
   name: readthedocs
-docs_dir: docs
+docs_dir: .
 nav:
   - Home: index.md
