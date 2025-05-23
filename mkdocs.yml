@@ -1,0 +1,10 @@
+site_name: MicroMind Docs
+theme:
+  name: readthedocs
+<<<<<<< HEAD
+=======
+docs_dir: .
+>>>>>>> 7ef7bb019c074eaef74202da9aa6085b53358879
+nav:
+  - Home: index.md
+  - Overview: overview.md
