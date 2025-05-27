@@ -1,0 +1,8 @@
+[book]
+title = "AI MicroMind Documentation"
+authors = ["ranimshabaan"]
+language = "en"
+src = "src"
+
+[output.html]
+additional-css = ["theme/custom.css"]

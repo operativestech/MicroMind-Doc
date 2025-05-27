@@ -1,0 +1,5 @@
+nav .mdbook-title {
+  font-weight: bold !important;
+  font-size: 1.6em;
+  color: #ffff; /* optional: make it stand out */
+}
