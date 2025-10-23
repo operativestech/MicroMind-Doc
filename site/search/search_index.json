@@ -1,0 +1,1 @@
+{"config":{"indexing":"full","lang":["en"],"min_search_length":3,"prebuild_index":false,"separator":"[\\s\\-]+"},"docs":[{"location":"","text":"Welcome to MicroMind Docs This documentation is powered by MkDocs and Render.","title":"Home"},{"location":"#welcome-to-micromind-docs","text":"This documentation is powered by MkDocs and Render.","title":"Welcome to MicroMind Docs"}]}
